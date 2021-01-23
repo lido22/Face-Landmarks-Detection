@@ -11,4 +11,7 @@ The project will be broken up into a few main parts in four Python notebooks.
 
 **Notebook 4**  : Fun Filters and Keypoint Uses
 
+## Adding Effects
+In the fourth notebook I made use of detected landmarks and put sunglasses on the man's eyes as shown below.
 
+![enter image description here](https://github.com/udacity/P1_Facial_Keypoints/blob/master/images/face_filter_ex.png)
